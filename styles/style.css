@@ -192,7 +192,8 @@ font-size: 1.3rem;
     padding: 20px;
   }
   main{
-    margin: 20px;
+    margin: 0;
+    padding: 20px;
   }
   .main-container button {
     left: 0;
@@ -235,8 +236,9 @@ font-size: 1.3rem;
   header {
     padding: 50px;
   }
-  main{
-    margin: 40px;
+  main {
+    margin: 0;
+    padding: 20px;
   }
   .nav-section ,
   .header-container ,
